@@ -1,0 +1,8 @@
+1号口为读入口(串口设备读入数据的口子),2号口为写出口(串口向外面写数据)
+
+python com.py  (输出：slave device names:  /dev/pts/1 /dev/pts/2 ）
+
+另建一个终端 #cd /dev/pts/
+#echo 456 > 2
+
+http://mobile.51cto.com/symbian-270768.htm
