@@ -1,0 +1,1 @@
+在~/.bashrc中将本目录下的lib路径添加到LD_LIBRARY_PATH中，并source ~/.bashrc，或者将生成的可执行文件直接拷到lib/目录下运行。
